@@ -2,6 +2,8 @@
 Shop template for react ecommerce 
 
 
+[I'm an inline-style link](https://www.google.com)
+
 [Demo]: https://sbtechbd.github.io/ecommerce-shop-template/index.html
 
 
